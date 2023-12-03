@@ -14,24 +14,34 @@ I am Sebastian Rodriguez, a dedicated Computer Science student at Georgia State 
 
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science** at Georgia State University (expected graduation: May 2024)
+- **Bachelor of Science in Computer Science** student at Georgia State University (expected graduation: May 2024)
 
-## 💻 Skills
+## 💻 Skills and Tools 🧰 
+- Proficient in: Python Java Flask Bash Git
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-- Proficient in: Python Java Flask Bash
+
+
+
+  
 - Familiar with: JavaScript HTML CSS React
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-## 🌟 Achievements
-
-- *Include any awards, scholarships, or notable achievements in your field*
 
 ## 📚 Projects
 
-- *Describe or link to any significant projects you've worked on*
+- here 
 
 ## 📫 Contact
 
-- Feel free to reach out to me via [email](mailto:youremail@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/sebastianrodriguez/)
+- Feel free to reach out to me via [email](rodriguezseba2001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sebastianrodriguez/)
 
 - #
 
