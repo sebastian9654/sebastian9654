@@ -4,8 +4,7 @@
 
 I am Sebastian Rodriguez, a dedicated Computer Science student at Georgia State University, concurrently gaining practical experience as a Software Engineering Intern at Intercontinental Exchange. I am passionate about leveraging technology to solve real-world problems and continuously expanding my skills in the field of software development.
 
-## 🌐 Links
-
+## 🌐 LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
 
 ## 🚀 Experience
@@ -17,23 +16,18 @@ I am Sebastian Rodriguez, a dedicated Computer Science student at Georgia State 
 - **Bachelor of Science in Computer Science** student at Georgia State University (expected graduation: May 2024)
 
 ## 💻 Skills and Tools 🧰 
-- Proficient in: Python Java Flask Bash Git
+- Proficient in:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-
-
-
-  
-- Familiar with: JavaScript HTML CSS React
+- Familiar with:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
 
 ## 📚 Projects
 
