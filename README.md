@@ -7,8 +7,8 @@ Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State Univ
 ## 🌐 LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
 
-## 🚀 Experience
-- **Software Engineer Intern** at Intercontinental Exchange (ICE / NYSE) (current)
+## Currently Learning 🧠 
+- **React, JavaScript, React Native**
 
 ## 🎓 Education
 - **Bachelor of Science in Computer Science** student at Georgia State University (expected graduation: May 2024)
@@ -30,8 +30,6 @@ Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State Univ
 
 ## 📫 Contact
 - Feel free to reach out to me via [email](rodriguezseba2001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sebastianrodriguez/)
-
-
 
 
 <details> 
