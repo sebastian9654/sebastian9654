@@ -2,7 +2,7 @@
 
 **`Computer Science Student & Software Engineer Intern`**
 
-Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State University, concurrently gaining practical experience as a Software Engineering Intern at Intercontinental Exchange (ICE / NYSE). I love using programming and tech to solve real-world problems and continuously expand my skills in the field of software development.
+Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State University, concurrently gaining practical experience as a Software Engineering Intern. I love using programming and tech to solve real-world problems and continuously expand my skills in the field of software development.
 
 ## 🌐 LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
