@@ -36,6 +36,6 @@ Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State Univ
 <summary><h3>👨‍💻 Sebastian's Coding Journey</h3></summary>
     I embarked on my coding journey back in 2021, stepping into my very first Computer Science class with a curious mind and a blank slate. At that point, lines of code were mysterious strings of characters that held immense potential yet seemed entirely foreign.
 
-Fast forward two years, and the transformation has been remarkable. What began as an exploration has evolved into a passionate pursuit of software development. I find myself currently working in an exciting role as a Software Engineering Intern, contributing my skills and knowledge to real-world projects at [ICE].
+Fast forward two years, and the transformation has been remarkable. What began as an exploration has evolved into a passionate pursuit of software development. I find myself currently working in an exciting role as a Software Engineering Intern, contributing my skills and knowledge to real-world projects.
 
 Beyond coding, my interests are all things tech-related and the constantly evolving landscape of technology, enjoy gaming as a creative escape, and love tackling challenges, both in the digital and beyond.
