@@ -4,6 +4,8 @@
 
 Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State University, concurrently gaining practical experience as a Software Engineering Intern. I love using programming and tech to solve real-world problems and continuously expand my skills in the field of software development.
 
+## Current Project(s)
+- Full Stack Chat Application using React / Flask
 ## 🌐 LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
 
