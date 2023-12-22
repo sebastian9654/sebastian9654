@@ -10,7 +10,7 @@ Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State Univ
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
 
 ## Currently Learning 🧠 
-- **React, JavaScript, React Native**
+- **React, JavaScript/TypeScript, React Native**
 
 ## 🎓 Education
 - **Bachelor of Science in Computer Science** student at Georgia State University (expected graduation: May 2024)
