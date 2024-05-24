@@ -1,19 +1,18 @@
 # 👨‍💻 Sebastian Rodriguez
 
-**`Computer Science Student & Software Engineer`**
+**`Software Engineer | Computer Science Student  `**
 
-Hello, I'm Sebastian, a dedicated Computer Science student at Georgia State University, concurrently gaining practical experience as a Software Engineering Intern. I love using programming and tech to solve real-world problems and continuously expand my skills in the field of software development.
+Hello, I'm Sebastian, a full time Software Engineer and MS Computer Science student at Georgia Institute of Technology.. I love using programming and tech to solve real-world problems and continuously expand my skills in the field of software development.
 
-## Current Project(s)
-- Full Stack Chat Application using React / Flask
 ## 🌐 LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/rodriguezseba2001/)
 
 ## Currently Learning 🧠 
-- **React, JavaScript/TypeScript, React Native**
+- **Go**
 
 ## 🎓 Education
-- **Bachelor of Science in Computer Science** student at Georgia State University (expected graduation: May 2024)
+- **Master of Science in Computer Science** student at Georgia Institute of Technology (expected graduation: May 2026)
+- **Bachelor of Science in Computer Science** student at Georgia State University (May 2024)
 
 ## 💻 Skills and Tools 🧰
 
